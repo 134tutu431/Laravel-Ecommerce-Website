@@ -14,8 +14,8 @@ return [
     |
     */
     'facebook' => [
-        'client_id' => '326513588981269',
-        'client_secret' => 'a3e72bcf739adfe0fdd8146975f5e2b2',
+        'client_id' => '',
+        'client_secret' => '',
         'redirect' => 'https://laravel.test/facebook/callback/'
     ],
 
